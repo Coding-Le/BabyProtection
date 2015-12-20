@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<plist version="1.0">  
+<dict>  
+    <key>dia1</key>  
+    <string>，我们今天去
+	动物园，很高兴吧！</string>
+	<key>dia2</key>  
+    <string>但是你要注意，
+动物园里人很多</string>
+	<key>dia3</key>  
+    <string>千万要一直和妈妈在
+	一起啊，更不要和不
+	认识的人走</string>
+	<key>dia4</key>  
+    <string>万一真的走散了，
+	就原地等妈妈</string>
+	<key>dia5</key>  
+    <string>如果看到穿制服的
+	警察叔叔也可以去
+	找警察叔叔</string>
+	<key>dia6</key>  
+    <string>如果有人说是爸爸妈
+妈派来接你的，你要
+打电话和妈妈确认</string>
+	<key>dia7</key>  
+    <string>妈妈的电话号码
+是</string>
+	<key>dia8</key>  
+    <string>
+是妈妈的电话，
+ 你记住了吗？</string>
+	<key>parent1</key>  
+    <string>爸爸</string>
+	<key>parent2</key>  
+    <string>妈妈</string>
+	<key>parent3</key>  
+    <string>爷爷</string>
+	<key>parent4</key>  
+    <string>奶奶</string>
+	<key>parent5</key>  
+    <string>其他亲人</string>
+</dict>  
+</plist> 

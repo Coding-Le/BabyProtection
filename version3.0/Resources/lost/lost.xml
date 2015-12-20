@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dict>
+    <key>Uncle1</key>
+    <string>小朋友，你真可爱，
+叔叔带你游玩吧</string>
+    <key>Uncle2</key>
+    <string>叔叔家里有好多玩具，
+更有好吃的！
+跟叔叔走吧！</string>
+    <key>Badguy1</key>
+    <string>小朋友，叔叔这里
+有好吃的糖。</string>
+    <key>Badguy2</key>
+    <string>来！
+拿一个去吃吧</string>
+    <key>Woman1</key>
+    <string>我是你妈妈同事，
+你怎么一个人走啊，
+好危险的！</string>
+    <key>Woman2</key>
+    <string>来吧，跟阿姨走，
+我带你找妈妈，
+别让她担心了！</string>
+    <key>Girl1</key>
+	<string>谢谢你，但是
+我不和陌生人走。</string>
+	<key>Girl2</key>
+	<string>谢谢你，但是
+我不吃陌生人的东西。</string>
+    <key>Girl3</key>
+    <string>谢谢你，但是
+你能给我妈妈打个电话吗？</string>
+    <key>Girl4</key>
+    <string>我和妈妈走散了</string>
+    <key>Cop1</key>
+    <string>你知道妈妈的电话么？</string>
+    <key>Cop2</key>
+    <string>真是个聪明的孩子啊，
+现在我就帮你把妈妈找回来！</string>
+    <key>PhoneAsk</key>
+    <string>点击这里输入妈妈手机号</string>
+</dict>
